@@ -1,0 +1,33 @@
+{
+  "name": "photo-video-uploader",
+  "version": "0.0.2",
+  "description": "Photo and Video Uploader & Get Direct Link.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkMakerofc/Photo-Video-Uploader.git"
+  },
+  "keywords": [
+    "nima",
+    "image",
+    "video",
+    "uploader",
+    "directlinks",
+    "api"
+  ],
+  "author": "mr nima <mnimaofc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "form-data": "^4.0.0",
+    "file-type": "^16.5.3",
+    "node-fetch": "^2.6.1"
+  },
+  "bugs": {
+    "url": "https://github.com/DarkMakerofc/Photo-Video-Uploader/issues"
+  },
+  "homepage": "https://github.com/DarkMakerofc/Photo-Video-Uploader#readme"
+}
